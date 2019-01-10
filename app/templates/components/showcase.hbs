@@ -1,0 +1,8 @@
+<!-- //BEGIN-SNIPPET showcase -->
+Map Color:
+{{#each colorList as |color|}}
+  <button onclick={{action "changeColor" color}} disabled={{eq selectedColor color}} >{{color}}</button>
+{{/each}}
+Turkey value: <input type="number" value={{data.TR}} onchange={{action "updateTrValue"}} oninput={{action "updateTrValue"}} />
+{{ember-world-map data=data color=selectedColor }}
+<!-- //END-SNIPPET -->
