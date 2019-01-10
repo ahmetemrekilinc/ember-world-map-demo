@@ -2822,10 +2822,10 @@ ember-welcome-page@3.2.0:
     ember-cli-babel "^6.6.0"
     ember-cli-htmlbars "^2.0.3"
 
-ember-world-map@0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/ember-world-map/-/ember-world-map-0.2.0.tgz#d0a8dcc733a028c3df43224b149653152366d636"
-  integrity sha512-X5zcxAipHOoFPUddJZGyBxrZCvCQeUoDnhWq4xjKx02BbiVw3XsKNoQG015lUk9wfNDHGgSWK1Uk9PoUpbA6EQ==
+ember-world-map@0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/ember-world-map/-/ember-world-map-0.2.1.tgz#692f91a486e1abe5f5ca876a0b48f071f8e922f1"
+  integrity sha512-bfFLsAqtzNQEMtsEuR3tyDccX22Nu4Me/+wccPSsYiCI3Oj2yWbB4umnKRc0oll/FlbCJazHNYYy2MXtIKDvig==
   dependencies:
     ember-cli-babel "6.16.0"
     ember-cli-htmlbars "3.0.0"
